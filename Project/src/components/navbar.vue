@@ -40,7 +40,7 @@
       </button>
       <div
         id="menu"
-        class="hidden md:flex md:items-center md:justify-center md:space-x-6 text-sm"
+        class="hidden md:flex md:w-full md:space-x-1 lg:w-fit lg:flex md:items-center md:justify-center lg:space-x-6 text-sm"
       >
         <div class="flex justify-center m-2 text-lg lg:text-sm lg:m-0">
           <a href="#" class="">Home</a>

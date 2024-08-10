@@ -44,48 +44,22 @@ document.addEventListener("DOMContentLoaded", function () {
   const menu = document.getElementById("menu");
   const menubutton2 = document.getElementById("menu-button2");
   const nav = document.getElementById("navbar");
-  if (window.matchMedia("(min-width: 1024px)").matches) {
+
+  menuButton.addEventListener("click", function () {
     menu.style.display = "flex";
+    nav.style.flexDirection = "column";
+    menu.style.flexDirection = "column";
+    menu.style.width = "100%";
+    menubutton2.style.display = "flex";
+    menuButton.style.display = "none";
+  });
+  menubutton2.addEventListener("click", function () {
+    menu.style.display = "";
     menuButton.style.display = "";
     menubutton2.style.display = "";
     nav.style.flexDirection = "";
     menu.style.flexDirection = "";
     menu.style.width = "";
-  }
-
-  menuButton.addEventListener("click", function () {
-    if (window.matchMedia("(min-width: 768px)").matches) {
-      menu.style.display = "flex";
-      menuButton.style.display = "";
-      menubutton2.style.display = "";
-      nav.style.flexDirection = "";
-      menu.style.flexDirection = "";
-      menu.style.width = "";
-    } else {
-      menu.style.display = "flex";
-      nav.style.flexDirection = "column";
-      menu.style.flexDirection = "column";
-      menu.style.width = "100%";
-      menubutton2.style.display = "flex";
-      menuButton.style.display = "none";
-    }
-  });
-  menubutton2.addEventListener("click", function () {
-    if (window.matchMedia("(min-width: 768px)").matches) {
-      menu.style.display = "flex";
-      menuButton.style.display = "";
-      menubutton2.style.display = "";
-      nav.style.flexDirection = "";
-      menu.style.flexDirection = "";
-      menu.style.width = "";
-    } else {
-      menu.style.display = "none";
-      menuButton.style.display = "";
-      menubutton2.style.display = "";
-      nav.style.flexDirection = "";
-      menu.style.flexDirection = "";
-      menu.style.width = "";
-    }
   });
   document.getElementById("trig1").addEventListener("click", function () {
     document.getElementById("trig1").style.marginBottom = "80px";
