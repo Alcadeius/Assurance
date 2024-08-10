@@ -68,7 +68,7 @@
         </div>
       </div>
       <div class="flex flex-col font-jakarta">
-        <div class="p-10 rounded-xl bg-black/5">
+        <div class="p-10 rounded-xl bg-black/5 overflow-hidden">
           <div class="flex-row flex justify-between mb-10">
             <h1 class="font-bold">Who needs the B211A visa?</h1>
             <span
@@ -96,7 +96,7 @@
             </li>
             <li class="mb-3">
               3.After the visa you want to you apply for
-              KITAS(investor,marriage,pension)
+              KITAS(investor,marriage, pension)
             </li>
             <li class="mb-3">
               4.your reason for entering the country is not for tourism

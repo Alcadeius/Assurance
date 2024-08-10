@@ -10,6 +10,11 @@
   <foot />
 </template>
 
+<style>
+body {
+  overflow-x: hidden !important;
+}
+</style>
 <script>
 import navbar from "./components/navbar.vue";
 import hero from "./components/hero.vue";
@@ -46,8 +51,6 @@ document.addEventListener("DOMContentLoaded", function () {
     nav.style.flexDirection = "";
     menu.style.flexDirection = "";
     menu.style.width = "";
-  } else if (window.matchMedia("(min-width:768px)").matches) {
-    menu.style.display = "";
   }
 
   menuButton.addEventListener("click", function () {

@@ -3,6 +3,9 @@ export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      screens: {
+        mini: "360px",
+      },
       fontFamily: {
         jakarta: ["Plus Jakarta Sans"],
         ubuntu: ["Ubuntu Mono"],

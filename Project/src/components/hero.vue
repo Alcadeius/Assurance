@@ -1,16 +1,16 @@
 <template>
   <section>
     <p
-      class="max-w-4 bg-gradient-to-b from-purple-300/80 to-green-300/80 rounded-full blur-xl top-32 -z-10 absolute right-7 m-20 p-32"
+      class="max-w-4 bg-gradient-to-b from-purple-300/80 to-green-300/80 rounded-full blur-xl top-32 -z-10 absolute right-32 m-20 p-32"
     ></p>
     <p
-      class="max-w-4 border-[1px] border-gray-300 rounded-full absolute -right-[3.5rem] -z-10 top-10 m-32 p-40"
+      class="max-w-4 border-[1px] border-gray-300 rounded-full absolute right-[3.5rem] -z-10 top-10 m-32 p-40"
     ></p>
     <p
-      class="max-w-4 border-[1px] border-gray-300 rounded-full absolute -right-[9.5rem] -z-10 -top-16 m-40 p-60"
+      class="max-w-4 border-[1px] border-gray-300 rounded-full absolute -right-[2.5rem] -z-10 -top-16 m-40 p-60"
     ></p>
     <p
-      class="max-w-4 border-[1px] border-gray-300 rounded-full absolute -right-[18.5rem] -z-10 -top-52 m-52 p-80"
+      class="max-w-4 border-[1px] border-gray-300 rounded-full absolute -right-[10.5rem] -z-10 -top-52 m-52 p-80"
     ></p>
     <div class="grid grid-cols-1 lg:grid-cols-4 mt-28">
       <div class="mx-auto mb-4 md:col-span-2 md:max-w-lg text-center">

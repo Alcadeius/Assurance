@@ -17,7 +17,7 @@
             height="64"
             color="gray"
             fill="gray"
-            class="opacity-10 flex relative -top-[6.4rem] -left-6"
+            class="opacity-10 flex relative -top-[5rem] min-[300px]:-top-48 mini:-top-36 min-[500px]:-top-20 sm:-top-20 lg:-top-[6.4rem] -left-6"
           >
             <path
               d="M14 16C14 14.1144 14 13.1716 14.5858 12.5858C15.1716 12 16.1144 12 18 12C19.8856 12 20.8284 12 21.4142 12.5858C22 13.1716 22 14.1144 22 16C22 17.8856 22 18.8284 21.4142 19.4142C20.8284 20 19.8856 20 18 20C16.1144 20 15.1716 20 14.5858 19.4142C14 18.8284 14 17.8856 14 16Z"
@@ -80,7 +80,7 @@
             height="64"
             color="gray"
             fill="gray"
-            class="opacity-10 flex relative -top-[6.4rem] -left-6"
+            class="opacity-10 flex relative -top-[5rem] min-[300px]:-top-48 mini:-top-36 min-[500px]:-top-20 sm:-top-20 lg:-top-[6.4rem] -left-6"
           >
             <path
               d="M14 16C14 14.1144 14 13.1716 14.5858 12.5858C15.1716 12 16.1144 12 18 12C19.8856 12 20.8284 12 21.4142 12.5858C22 13.1716 22 14.1144 22 16C22 17.8856 22 18.8284 21.4142 19.4142C20.8284 20 19.8856 20 18 20C16.1144 20 15.1716 20 14.5858 19.4142C14 18.8284 14 17.8856 14 16Z"
@@ -143,7 +143,7 @@
             height="64"
             color="gray"
             fill="gray"
-            class="opacity-10 flex relative -top-[6.4rem] -left-6"
+            class="opacity-10 flex relative -top-[5rem] min-[300px]:-top-48 mini:-top-36 min-[500px]:-top-20 sm:-top-20 lg:-top-[6.4rem] -left-6"
           >
             <path
               d="M14 16C14 14.1144 14 13.1716 14.5858 12.5858C15.1716 12 16.1144 12 18 12C19.8856 12 20.8284 12 21.4142 12.5858C22 13.1716 22 14.1144 22 16C22 17.8856 22 18.8284 21.4142 19.4142C20.8284 20 19.8856 20 18 20C16.1144 20 15.1716 20 14.5858 19.4142C14 18.8284 14 17.8856 14 16Z"
@@ -208,7 +208,7 @@
             height="64"
             color="gray"
             fill="gray"
-            class="opacity-10 flex relative -top-[6.4rem] -left-6"
+            class="opacity-10 flex relative -top-[5rem] min-[300px]:-top-48 mini:-top-36 min-[500px]:-top-20 sm:-top-20 lg:-top-[6.4rem] -left-6"
           >
             <path
               d="M14 16C14 14.1144 14 13.1716 14.5858 12.5858C15.1716 12 16.1144 12 18 12C19.8856 12 20.8284 12 21.4142 12.5858C22 13.1716 22 14.1144 22 16C22 17.8856 22 18.8284 21.4142 19.4142C20.8284 20 19.8856 20 18 20C16.1144 20 15.1716 20 14.5858 19.4142C14 18.8284 14 17.8856 14 16Z"
@@ -273,7 +273,7 @@
             height="64"
             color="gray"
             fill="gray"
-            class="opacity-10 flex relative -top-[6.4rem] -left-6"
+            class="opacity-10 flex relative -top-[5rem] min-[300px]:-top-48 mini:-top-36 min-[500px]:-top-20 sm:-top-20 lg:-top-[6.4rem] -left-6"
           >
             <path
               d="M14 16C14 14.1144 14 13.1716 14.5858 12.5858C15.1716 12 16.1144 12 18 12C19.8856 12 20.8284 12 21.4142 12.5858C22 13.1716 22 14.1144 22 16C22 17.8856 22 18.8284 21.4142 19.4142C20.8284 20 19.8856 20 18 20C16.1144 20 15.1716 20 14.5858 19.4142C14 18.8284 14 17.8856 14 16Z"
