@@ -9,7 +9,7 @@
       </p>
       <div class="flex flex-col justify-center sm:flex-row">
         <button
-          class="bg-white p-3 rounded-full relative w-full lg:w-[20%] top-16 z-10"
+          class="bg-white p-4 rounded-full relative w-full top-16 mt-3 lg:w-[20%] z-10"
         >
           <span
             class="uppercase text-black font-jakarta font-bold flex justify-center content-center"
