@@ -76,7 +76,7 @@
             <a>Link 2</a>
           </div>
           <div
-            class="absolute opacity-0 transition -z-10 group-hover:z-10 mt-6 group-hover:opacity-100 bg-white text-black rounded-lg shadow-lg shadow-black"
+            class="absolute opacity-0 transition hidden lg:flex -z-10 group-hover:z-10 mt-6 group-hover:opacity-100 bg-white text-black rounded-lg shadow-lg shadow-black"
           >
             <div class="p-5 flex flex-col justify-center space-y-3">
               <a href="">Link 1</a>
